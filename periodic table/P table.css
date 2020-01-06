@@ -1,0 +1,35 @@
+.one{
+
+    background-color:orangered;
+}
+.two{
+    background-color:lightpink;
+}
+.rose{
+    background-color: magenta;
+}
+.a{
+    background-color: lightseagreen;
+}
+.b{
+    background-color: rgb(235, 235, 123);
+}
+.c{
+    background-color: rgb(168, 235, 168);
+}
+
+.d{
+    background-color:rgb(197, 141, 141);
+}
+.e{
+    background-color: skyblue;
+}
+.f{
+    background-color:rgb(240, 146, 109);
+}
+.m{
+    color: maroon;
+    background-color: rgb(240, 240, 53);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
